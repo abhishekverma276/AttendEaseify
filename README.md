@@ -10,3 +10,4 @@ We're working hard to bring you an awesome project, but it's not quite ready yet
 
 #first Provisional look
 ![image](https://github.com/abhishekverma276/AttendEaseify/assets/96565154/179a1335-b14d-4675-8bfb-ab97c3147adf)
+![WhatsApp Image 2024-05-02 at 10 36 12_0982e056](https://github.com/abhishekverma276/AttendEase/assets/96565154/a282da44-fdbb-4520-af90-f29e62c34bbd)
