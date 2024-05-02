@@ -1,13 +1,32 @@
 # AttendEaseify
-AttendEaseify is an Android app utilizing NFC sensors for efficient attendance tracking at events. It simplifies check-ins, aids organizers in managing attendance data, and enhances the overall event experience.
 
-## Project Status
+## Overview
+This NFC Attendance App allows users to send and receive attendance data via NFC. The app consists of two main functionalities: sending attendance data from a sender device and receiving it on a receiver device.
 
-🚧 This project is currently under development 🚧
+## Features
+- **Send Data**: Users can enter their details and send them via NFC to another device.
+- **Receive Data**: Users can receive NFC data from another device.
 
-We're working hard to bring you an awesome project, but it's not quite ready yet! Stay tuned for updates.
+## Screenshots
+![Transmit Attendance](https://github.com/abhishekverma276/AttendEase/assets/96565154/f9cb663a-3968-42b3-a982-612fc8b6c0a7)
+![receive attendance](https://github.com/abhishekverma276/AttendEase/assets/96565154/241905ba-248e-499d-b9ab-e9ffb7e80712)
 
 
-#first Provisional look
-![image](https://github.com/abhishekverma276/AttendEaseify/assets/96565154/179a1335-b14d-4675-8bfb-ab97c3147adf)
-![WhatsApp Image 2024-05-02 at 10 36 12_0982e056](https://github.com/abhishekverma276/AttendEase/assets/96565154/a282da44-fdbb-4520-af90-f29e62c34bbd)
+## How It Works
+1. **Sender Device**:
+   - The user fills out their name, enrollment number, batch, and branch.
+   - Upon pressing the "Send Data" button, the data is formatted into an NDEF message and sent via NFC.
+
+2. **Receiver Device**:
+   - The device waits for an NFC transmission.
+   - Once data is received, it is displayed to the user.
+
+## Setup
+To run this project, clone the repo and open it in Android Studio. Make sure you have the latest Android SDK installed and that NFC is supported on your testing devices.
+
+## Prerequisites
+- Android SDK with NFC support.
+- Two NFC-capable devices.
+
+## Installation
+Clone this repository and import into **Android Studio**
