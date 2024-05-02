@@ -8,6 +8,7 @@ This NFC Attendance App allows users to send and receive attendance data via NFC
 - **Receive Data**: Users can receive NFC data from another device.
 
 ## Screenshots
+![Main Page](https://github.com/abhishekverma276/AttendEase/assets/96565154/b5389413-6428-4fc3-a92f-7a7f8c7292f2)
 ![Transmit Attendance](https://github.com/abhishekverma276/AttendEase/assets/96565154/f9cb663a-3968-42b3-a982-612fc8b6c0a7)
 ![receive attendance](https://github.com/abhishekverma276/AttendEase/assets/96565154/241905ba-248e-499d-b9ab-e9ffb7e80712)
 
