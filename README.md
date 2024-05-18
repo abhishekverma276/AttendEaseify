@@ -21,6 +21,7 @@ This NFC Attendance App allows users to send and receive attendance data via NFC
 2. **Receiver Device**:
    - The device waits for an NFC transmission.
    - Once data is received, it is displayed to the user.
+   - The received data is stored into a text file that's created after prompting the user to enter file name.
 
 ## Setup
 To run this project, clone the repo and open it in Android Studio. Make sure you have the latest Android SDK installed and that NFC is supported on your testing devices.
